@@ -55,7 +55,7 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/-Gmail-e
 
 [![radhin123 Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=radhin123&custom_title=Radhin%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
-## trophy: Git profile Trophies
+## Git profile Trophies
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=radhin123&layout=compact&theme=react-dark" alt="7oskaaa" /></a> </p>
 <br/>
