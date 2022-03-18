@@ -15,7 +15,7 @@
 <p align="center">
 <a href="#"><img title="Leviathan" src="https://img.shields.io/badge/Radhin Al haady -green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 <p align="center">
-<img src="./image/FB_IMG_1645619305907.jpg" alt="Leviathan" width="500"/>
+<img src="./image/FB_IMG_1625987973831.jpg" alt="Leviathan" width="500"/>
 </p>
 <p align="center">
 
