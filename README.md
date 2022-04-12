@@ -12,7 +12,7 @@
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="radhin123" target="_blank"/> 
 	</a>
 	
-  <audio autoplay="play" hidden="hidden" src="https://b.top4top.io/m_1889nvfeu8.mp3"></audio>
+  <audio autoplay="autoplay" src="https://b.top4top.io/m_1889nvfeu8.mp3"></audio>
 <p align='center'>
        <!--<img src="https://avatarfiles.alphacoders.com/108/thumb-108886.gif" alt="FERDI Z-AFK" width="150" class="rounded-circle img-thumbnail" /> -->
         <br>
