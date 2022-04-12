@@ -11,9 +11,29 @@
 	<a href = "https://commits.top/egypt.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="radhin123" target="_blank"/> 
 	</a>
-</p>
-<p align="center">
+	
+  <audio autoplay="play" hidden="hidden" src="https://b.top4top.io/m_1889nvfeu8.mp3"></audio>
+<p align='center'>
+       <!--<img src="https://avatarfiles.alphacoders.com/108/thumb-108886.gif" alt="FERDI Z-AFK" width="150" class="rounded-circle img-thumbnail" /> -->
+        <br>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=radhin123.radhin123??style=for-the-badge&logo=appveyor"></a><br>
+  <p align="center">
 <a href="#"><img title="Leviathan" src="https://img.shields.io/badge/Radhin Al haady -green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  <a href="https://github.com/radhin123"><img src="https://cardivo.vercel.app/api?name=Radhin Al haady&description=Hai,%20saya%20Radhin%20dan%20saya%20hanya%20seorang%20programmer%20pemula.%20dan%20saya%20tidak%20punya%20seorang%20teman,saya%20sangat%20sedih.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2%20%20.&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=radhin-al-haadi&github=radhin123&pattern=leaf&colorPattern=%23eaeaea" /><a>
+</p>
+
+<!---img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FFERDIZ-afk" alt="PENGGUNJUNG GITHUB"-->
+<p align='center'>
+  <a href="https://github.com/radhin123"><img src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=61DAFB" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me//6282311619167"><img src="https://img.shields.io/badge/whatsApp%20-%23339933.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://Instagram.com/radhin-al-haadi"><img src="https://img.shields.io/badge/Instagram%20-%23cc6699.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
+</p>
+  <a href="https://github.com/radhin123"><img src="https://cardivo.vercel.app/api?name=Masya%20 Mardelisya&description=Saya ingin dia datang kepada saya Jika dia benar-benar tertarik, dia tidak akan main-main. Dia akan terus melihat Anda dan lebih sering tersenyum. Ini bukan tiba-tiba—ini lampu hijau Anda untuk berbicara dengannya.&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
+<p align "center">
+-----
+</p>
 <p align="center">
 <img src="./image/FB_IMG_1625987973831.jpg" alt="Leviathan" width="500"/>
 </p>
