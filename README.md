@@ -29,8 +29,8 @@
   <a href="https://Instagram.com/radhin-al-haadi"><img src="https://img.shields.io/badge/Instagram%20-%23cc6699.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
-</p>
-  <a href="https://github.com/radhin123"><img src="https://cardivo.vercel.app/api?name=Masya%20 Mardelisya&description=Saya ingin dia datang kepada saya Jika dia benar-benar tertarik, dia tidak akan main-main. Dia akan terus melihat Anda dan lebih sering tersenyum. Ini bukan tiba-tiba—ini lampu hijau Anda untuk berbicara dengannya.&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
+  <a href="https://github.com/radhin123"><img src="https://cardivo.vercel.app/api?name=Resti%20 &description=Saya ingin dia datang kepada saya Jika dia benar-benar tertarik, dia tidak akan main-main. Dia akan terus melihat Anda dan lebih sering tersenyum. Ini bukan tiba-tiba—ini lampu hijau Anda untuk berbicara dengannya.&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>
+<!---<a href="https://github.com/radhin123"><img src="https://cardivo.vercel.app/api?name=MASYA%20 Mardelisya&description=Saya ingin dia datang kepada saya Jika dia benar-benar tertarik, dia tidak akan main-main. Dia akan terus melihat Anda dan lebih sering tersenyum. Ini bukan tiba-tiba—ini lampu hijau Anda untuk berbicara dengannya.&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrwzg2Pqv93cV8BQkuFvEruu65unRd3FDjg&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1" /><a>-->
 <p align "center">
 -----
 </p>
@@ -41,7 +41,7 @@
 
 - 👼 My name is Radhin Al haady
 
-- 🗣️ I am 15 years old 
+- 🗣️ I am 16 years old 
 
 - 🔭 I am Not programmer
  
@@ -73,7 +73,7 @@ Reach Me                 | [![Gmail Badge](https://img.shields.io/badge/-Gmail-e
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radhin123&langs_count=10&show_icons=true&locale=en&layout=compact&theme=react-dark" alt="7oSkaaa" height="192px"/>
   <br/>
 
-[![radhin123 Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=radhin123&custom_title=Radhin%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![radhin123 Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=radhin123&custom_title=Radhin%20Trips's%20Contribution%20Graph&theme=react-dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 ## Git profile Trophies
 <br/>
