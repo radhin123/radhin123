@@ -19,7 +19,7 @@
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=radhin123.radhin123??style=for-the-badge&logo=appveyor"></a><br>
   <p align="center">
 <a href="#"><img title="Leviathan" src="https://img.shields.io/badge/Radhin Al haady -green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-  <a href="https://github.com/radhin123"><img src="https://cardivo.vercel.app/api?name=Radhin Al haady&description=Hai,%20saya%20Radhin%20dan%20saya%20hanya%20seorang%20programmer%20pemula.%20dan%20saya%20tidak%20punya%20seorang%20teman,saya%20sangat%20sedih.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%F0%9F%98%9E%F0%9F%98%9F%F0%9F%98%A2%20%20.&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=radhin-al-haadi&github=radhin123&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/radhin123"><img src="https://cardivo.vercel.app/api?name=Radhin Al haady&description=Hai,%20saya%20Radhin%20dan%20saya%20hanya%20seorang%20programmer%20pemula.%20dan%20saya%20tidak%20punya%20seorang%20teman.%20%2.&image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLsSI7eajxhLwkdMqO3p1WzwCxN-8P2ctSoA&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=radhin-al-haadi&github=radhin123&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <!---img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FFERDIZ-afk" alt="PENGGUNJUNG GITHUB"-->
